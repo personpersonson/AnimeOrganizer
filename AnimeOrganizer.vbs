@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\korisnik\Desktop\AnimeOrganizer\animeOrganizer.bat", 0, True
